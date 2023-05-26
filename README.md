@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **Node Js**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
